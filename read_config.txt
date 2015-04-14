@@ -1,0 +1,44 @@
+/*
+	Developer by : Paulo Damasceno;
+*/
+
+Crie no Armazenamento Interno, um diretório Chamado SendMessage, e salve dentro dele o arquivo (mensagens.json),
+o arquivo mensagem.json deve ter a formatação abaixo:
+
+Make inside the Internal Storage, a Folder with name SendMessage, and save inside him the file with name (mensagens.json), the mensagem.json file need have the example of formating below:
+
+[
+	{
+		"Msg" 		: "Esta é uma mensagem de Teste Etapa 1",
+		"Fone"		: "0000000000",
+		"Contato" 	: "Paulo Damasceno"
+	},
+	{
+		"Msg" 		: "Esta é uma mensagem de Teste Etapa 2",
+		"Fone"		: "0000000000",
+		"Contato" 	: "Paulo Damasceno"
+	},
+	{
+		"Msg" 		: "Esta é uma mensagem de Teste Etapa 3",
+		"Fone"		: "0000000000",
+		"Contato" 	: "Paulo Damasceno"
+	},
+	{
+		"Msg" 		: "Esta é uma mensagem de Teste Etapa 4",
+		"Fone"		: "0000000000",
+		"Contato" 	: "Paulo Damasceno"
+	},
+	{
+		"Msg" 		: "Esta é uma mensagem de Teste Etapa 5",
+		"Fone"		: "0000000000",
+		"Contato" 	: "Paulo Damasceno"
+	},
+	{
+		"Msg" 		: "Esta é uma mensagem de Teste Etapa 6",
+		"Fone"		: "0000000000",
+		"Contato" 	: "Paulo Damasceno"
+	}
+]
+
+pode inserir quantas mensagens desejar.
+How many messages enter desired.
