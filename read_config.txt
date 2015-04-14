@@ -1,5 +1,5 @@
 /*
-	Developer by : Paulo Damasceno;
+	Developer : Paulo Damasceno;
 */
 
 Crie no Armazenamento Interno, um diretório Chamado SendMessage, e salve dentro dele o arquivo (mensagens.json),
@@ -42,3 +42,6 @@ Make inside the Internal Storage, a Folder with name SendMessage, and save insid
 
 pode inserir quantas mensagens desejar.
 How many messages enter desired.
+
+obs: A Pasta (SendMessage) modelo deste projeto encontra-se dentro do repositório.
+	The Folder (SendMessage) model is inside of this repo.
